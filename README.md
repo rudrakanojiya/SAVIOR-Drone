@@ -161,9 +161,12 @@ savior-sih26177/
 
 | Name | Role |
 |---|---|
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
-| _Add name_ | _Add role_ |
+| Pankaj Kute | Team Lead — Project Administration & Coordination, Flight Computer Logic |
+| Jaideep Khare | Flight Controller Engineer — STM32 & Flight Hardware |
+| Rudra Kanojiya | Communications & GCS Lead — Communication Architecture, GCS Dashboard, Project Co-Coordination |
+| Shivam Pandey | Perception & ML Engineer — Camera Systems (OpenMV, RGB, Thermal), ML Pipeline & Flight Computer |
+| Partth Bhardwaj | Aeromechanics & Design Lead — Frame Design, Aeromechanics, Build Planning |
+| Tanisha Giri | Documentation & Presentation Lead — Technical Documentation, SIH Deck & Reporting |
 
 ---
 
